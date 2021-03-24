@@ -6,6 +6,7 @@ HTML, CSS, advanced JS, jQuery and Bootstrap
 
 # JS Frameworks:
 Vue - with Vue Router
+
 React - currently mastering Redux and React Router
 
 # CONTACT:
