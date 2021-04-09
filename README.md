@@ -1,13 +1,13 @@
 # About:
 Hi, I’m devChazz, a brazilian Front-End Web Developer
 
-# Languages: 
+# Skills: 
 HTML, CSS, advanced JS, jQuery and Bootstrap
 
 # JS Frameworks:
 Vue - with Vue Router
 
-React - currently mastering Redux and React Router
+React - with React Router - Currently mastering Redux
 
 # CONTACT:
 
