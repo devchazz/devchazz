@@ -1,5 +1,5 @@
 # About:
-Hi, I’m devChazz, a brazilian Front-End Web Developer
+Hi, I’m Chazz, a brazilian Front-End Web Developer
 
 # Skills: 
 HTML / CSS / advanced JS / Vue - with Vue Router / React - with React Router / jQuery / Bootstrap
