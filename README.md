@@ -2,17 +2,14 @@
 Hi, I’m devChazz, a brazilian Front-End Web Developer
 
 # Skills: 
-HTML, CSS, advanced JS, jQuery and Bootstrap
+HTML / CSS / advanced JS / Vue - with Vue Router / React - with React Router / jQuery / Bootstrap
 
-## JS Frameworks:
-Vue - with Vue Router 
+- Currently mastering Redux and Node.js
 
-React - with React Router - Currently mastering Redux
-
-# CONTACT:
+# Contact:
 Email: devchazz1@gmail.com
 
-# PORTFOLIO:
+# Portfolio:
 Work in progress...
 <!---
 devchazz/devchazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
