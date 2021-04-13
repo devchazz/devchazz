@@ -2,7 +2,13 @@
 Hi, I’m Chazz, a brazilian Front-End Web Developer
 
 # Skills: 
-HTML / CSS / advanced JS / Vue - with Vue Router / React - with React Router / jQuery / Bootstrap
+- HTML
+- CSS
+- Advanced JS 
+- Vue - with Vue Router 
+- React - with React Router
+- jQuery 
+- Bootstrap
 
 - Currently mastering Redux and Node.js
 
