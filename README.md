@@ -1,22 +1,25 @@
 # About:
-Hi, I’m Chazz, a brazilian Front-End Web Developer
+Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 
-# Skills: 
+# Skills:
+## Front End Skills:
 - HTML
 - CSS
 - Advanced JS 
-- Vue - with Vue Router 
-- React - with React Router
+- Vue.js
+- React.js
 - jQuery 
-- Bootstrap
-
-- Currently mastering Redux and Node.js
+- Bootstrap / Bulma / Material UI
+## Back End Skills:
+- Node.js
+- Express
 
 # Contact:
 Email: devchazz1@gmail.com
 
 # Portfolio:
 Work in progress...
+
 <!---
 devchazz/devchazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
