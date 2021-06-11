@@ -13,6 +13,8 @@ Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 ## Back End Skills:
 - Node.js
 - Express
+- REST API
+- Supabase
 
 # Contact:
 Email: devchazz1@gmail.com
