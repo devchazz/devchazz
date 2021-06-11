@@ -15,6 +15,10 @@ Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 - Express
 - REST API
 - Supabase
+## Other Skills:
+- Flutter
+- Electron
+- Godot
 
 # Contact:
 Email: devchazz1@gmail.com
