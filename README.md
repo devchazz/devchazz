@@ -5,7 +5,8 @@ Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 ## Front End Skills:
 - HTML
 - CSS
-- Advanced JS 
+- Advanced JavaScript
+- TypeScript
 - Vue.js
 - React.js
 - jQuery 
