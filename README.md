@@ -1,6 +1,9 @@
 # About:
 Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 
+# Portfolio:
+http://chazzdeveloper.tk/#/
+
 # Skills:
 ## Front End Skills:
 - HTML
@@ -23,9 +26,6 @@ Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 
 # Contact:
 Email: devchazz1@gmail.com
-
-# Portfolio:
-Work in progress...
 
 <!---
 devchazz/devchazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
