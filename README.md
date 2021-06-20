@@ -2,7 +2,7 @@
 Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 
 # Portfolio:
-http://chazzdeveloper.tk/
+https://chazzdeveloper.tk/
 
 # Skills:
 ## Front End Skills:
