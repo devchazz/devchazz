@@ -1,6 +1,8 @@
 # About:
 Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
 
+I also have some experience with mobile development using Flutter, game development using Godot and desktop using Electron. 
+
 # Portfolio:
 https://chazzdeveloper.tk/
 
