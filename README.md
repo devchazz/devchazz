@@ -1,15 +1,14 @@
 # About:
-Hi, I’m Chazz, a brazilian Web Developer focused on Front End.
+Hi, I’m Chazz, a full stack web developer focused on front end.
 
-I also have some experience with mobile development using Flutter, game development using Godot and desktop using Electron. 
+I also have experience with mobile development using Flutter, game development using Godot and desktop using Electron. 
 
 # Portfolio:
 https://chazzdeveloper.tk/
 
 # Skills:
 ## Front End Skills:
-- HTML
-- CSS
+- HTML / CSS
 - Advanced JavaScript
 - TypeScript
 - Vue.js
@@ -19,6 +18,7 @@ https://chazzdeveloper.tk/
 ## Back End Skills:
 - Node.js
 - Express
+- SQL
 - REST API
 - Supabase
 ## Other Skills:
