@@ -1,5 +1,5 @@
 # About:
-Hi, I’m Chazz, a full stack web developer focused on front end.
+Hi, I’m Chazz, a front end web developer focused on front end.
 
 I also have experience with mobile development using Flutter, game development using Godot and desktop using Electron. 
 
