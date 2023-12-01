@@ -4,7 +4,7 @@ Hi, I’m Chazz, a web developer focused on front end.
 I also have experience with mobile development using Flutter, game development using Godot and desktop using Electron. 
 
 # Portfolio:
-https://awesome-payne-1ce7de.netlify.app/#/ 
+https://chazz.com.br
 
 # Game Development:
 Chazz Card Game - https://melodic-hummingbird-9bc19f.netlify.app/
