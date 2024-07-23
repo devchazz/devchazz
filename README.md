@@ -1,5 +1,5 @@
 # About:
-Hi, I’m Chazz, a software developer foucused on the web.
+Hi, I’m Chazz, a software developer focused on the web.
 
 I also have experience with mobile development using Flutter, game development using Godot and desktop using Electron. 
 
